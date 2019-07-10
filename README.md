@@ -18,3 +18,4 @@
 - [SW 개발자 처우, 이대로 좋은가](http://www.bloter.net/archives/169430)
 - [코사 등록 방법/ 소프트웨어 기술자 신고](http://blog.naver.com/PostView.nhn?blogId=chsonyu&logNo=221458485720&parentCategoryNo=&categoryNo=27&viewDate=&isShowPopularPosts=true&from=search)
 - [40대 프리랜서가 되기 위해 필요한 것](https://it.donga.com/28845/)
+- ["진화 중인 프리랜서의 세계" 크라우드소싱으로 협업하고 혼자 멀티플레이어로 뛰기도](https://jmagazine.joins.com/economist/view/322925)
