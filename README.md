@@ -1,11 +1,41 @@
 # Awesome Freelance Korea Information
 > 프리랜서 개발자(SW프리랜서)에 대한 정보 모음
 
-## [프리랜서 개발자의 장단점](https://medium.com/@jang.wangsu/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EC%9D%80-3c9d0a2f8881)
+## 주요 링크
+- 한국 소프트웨어 산업협회 : https://www.sw.or.kr
+	- KOSA(코사) 와 같은 용어 입니다. 
+	- 한국 소프트웨어 산업협회 (Korea Software Industry Association)를 약자로 줄여서 KOSA(코사)
+- okky: https://okky.kr
+	- 프리랜서 커뮤니티, 구인/구직, 칼럼
+- [프리랜서 가이드라인 (e-Book, 무료) 소개](https://okky.kr/article/533991)
+	- [에스프레소북](http://espressobook.com/books/1449), [YES24](http://www.yes24.com/Product/goods/67488216), [리디북스](https://ridibooks.com/books/2389000025), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=176445813), [교보문고](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480D181212200&orderClick=LAN&Kc=), [네이버e북](https://series.naver.com/ebook/detail.nhn?productNo=3843736)
+
+## 프리랜서 개발자의 장단점 [Link](https://medium.com/@jang.wangsu/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EC%9D%80-3c9d0a2f8881)
 - 장점
   - 자유, 목돈, 업무에 집중, 장기간 휴식가능, 다양한 경험, 주말출근/야근이 적을 수 있음.
 - 단점
   - 고용 불투명, 근무 중 휴가사용 힘듬, 계약서 작성, 평일세미나 참석힘듬, 퇴직금 없음, 4대보험은 직접, 쉬는 만큼 돈벌지 못함, 부정적 이미지, 처우 나쁨
+
+## 개발자 등급
+- [SW기술자의 등급 및 인정 범위 표](https://blog.lael.be/post/63)
+	- SW기술자등급이 2012년 11월 24일부터 폐지됩니다.
+
+
+
+## 세금
+> 받기로 한 금액의 3.3%를 세금으로 냅니다. 
+
+- 세금 3.3% : 사업소득세 3% + 지방소득세 0.3%
+- 세금을 원천 징수한 후에 받습니다.
+
+### 좋은 세금 설명 블로그
+- [프리랜서는 연간 매출이 얼마나 발생해야, 사업자등록하는 게 좋을까요?](https://jascpa.tistory.com/70)
+- [프리랜서 3.3% 소득세신고 세금과 사업자 비교등 모든것!](https://blog.naver.com/taxcj/40202975450)
+
+### 기타 직장인 알바시 세금
+> 아르바이트를 하고 세금 3.3%를 내셨다면, 5월에 종합소득세 신고를 하셔야됩니다.
+
+- [네이버 지식인, 직장인 아르바이트 수입 종합소득세 신고 문의](https://kin.naver.com/qna/detail.nhn?d1id=4&dirId=40301&docId=301090428&qb=7KKF7ZWp7IaM65Od7IS4IOyVhOultOuwlOydtO2KuCA1MDDrp4w=&enc=utf8&section=kin&rank=1&search_sort=0&spq=1&pid=Ufkh/lprvhGssaDpui0ssssst5d-243767&sid=XswTKFtaylAYx4TMqfUDsw%3D%3D)
 
 ## 계약서
 ### 주의사항
