@@ -28,7 +28,8 @@
 - [SW기술자의 등급 및 인정 범위 표](https://blog.lael.be/post/63)
 	- SW기술자등급이 2012년 11월 24일부터 폐지됩니다.
 
-
+- [폐지된 SW기술자 등급제, 여전히 공공사업에 활용](http://www.itdaily.kr/news/articleView.html?idxno=84296)
+- [국민청원, SW기술자등급 폐지가 제대로 시행되도록 해주세요.](https://www1.president.go.kr/petitions/205936?page=2)
 
 ## 세금
 > 받기로 한 금액의 3.3%를 세금으로 냅니다. 
