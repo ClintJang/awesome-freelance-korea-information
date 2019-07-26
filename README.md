@@ -92,6 +92,10 @@
 - [단통법 8개월…아이폰만 훨훨 날았다](https://www.mk.co.kr/news/business/view/2015/06/584426/)
 
 ## 용어
+- [프리랜서(위키백과)](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C), [프리랜서(namu)](https://namu.wiki/w/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C), [Freelancer](https://en.wikipedia.org/wiki/Freelancer)
+- [SI](https://namu.wiki/w/SI) : System Integration(시스템 구축)의 약자, 국내에서는 전산시스템을 필요로 하는 곳으로부터 하청을 받아, 시스템의 기획, 개발, 유지보수, 운영 등을 대신 해주는 업종입니다.
+	- 개인적인 생각입니다. 이런 업종을, 즉 국내에서 전산시스템을 구축/유지보수하는 전체적인 용어로 사용하기도 하고, 혹은 유지보수 말고 프로젝트를 새로 만드는 단계인 구축진행을 할때 SM과 구분지어서 표현하기도 합니다.
+- [SM](https://namu.wiki/w/SM(%EA%B0%9C%EB%B0%9C)) : System Management(시스템 운영, 또는 유지보수)의 약자입니다.
 - [턴키](https://ko.wikipedia.org/wiki/%ED%84%B4%ED%82%A4) : 턴키(영어: turnkey) 또는 턴키 방식은 제품을 구매자가 바로 사용할 수 있도록 생산자가 인도하는 방식이다. 디자인-빌드(Design-Build)라고도 한다.
 	- [Turnkey](https://en.wikipedia.org/wiki/Turnkey)
 - [원청회사](https://m.blog.naver.com/PostView.nhn?blogId=choiuisun&logNo=67225928&proxyReferer=https%3A%2F%2Fwww.google.com%2F) :  [原請會社] [명사]입찰에 응하여 도급을 따 낸 회사를 하청 회사에 상대하여 이르는 말.
