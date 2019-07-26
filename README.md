@@ -97,6 +97,14 @@
 - [원청회사](https://m.blog.naver.com/PostView.nhn?blogId=choiuisun&logNo=67225928&proxyReferer=https%3A%2F%2Fwww.google.com%2F) :  [原請會社] [명사]입찰에 응하여 도급을 따 낸 회사를 하청 회사에 상대하여 이르는 말.
 - [아웃소싱](https://ko.wikipedia.org/wiki/%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1) :  기업의 내부 프로젝트나 제품의 생산, 유통, 용역 등을 외부의 제3자에게 위탁, 처리하는 것
 
+## 다양한 방법으로 개발 인력들을 모집하는 사이트
+> 부업을 한다면??
+
+- [위시켓](https://www.wishket.com) : "IT 아웃소싱을 위시켓에서 빠르고 안전하게!" 라고 합니다.
+	- 애플리케이션 개발, 웹 개발, 일반 소프트웨어 개발,
+웹 디자인, 커머스, 쇼핑몰 등
+- [크몽](https://kmong.com) : "전문가가 필요한 순간 프리랜서 마켓!" 하고 합니다.
+
 ## 그 외 읽어볼만한 링크
 - [SW 개발자 처우, 이대로 좋은가](http://www.bloter.net/archives/169430)
 - [코사 등록 방법/ 소프트웨어 기술자 신고](http://blog.naver.com/PostView.nhn?blogId=chsonyu&logNo=221458485720&parentCategoryNo=&categoryNo=27&viewDate=&isShowPopularPosts=true&from=search)
