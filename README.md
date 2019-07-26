@@ -8,7 +8,7 @@
 ```
 개인적으로 찾아보고, 
 준비하면서 작성한 내용이라 부족하거나 틀릴 수 있습니다.
-잘못된 내용을 발견하거나 알게 되는 데로 수정하도록 하겠습니다.
+잘못된 내용을 발견하거나 알게 되는 데로 수정하도록 하겠습니다. 🙇‍
 ```
 
 ## 주요 링크
@@ -76,7 +76,14 @@
 ### 주의사항
 - [계약서 작성 이야기](https://medium.com/@jang.wangsu/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EA%B3%84%EC%95%BD%EC%84%9C-%EC%9E%91%EC%84%B1-%EC%9D%B4%EC%95%BC%EA%B8%B0-2848c8db7e1f)
 
+### 계약서 셈플 링크
+- [제가 작성해본 계약서 셈플 3가지](https://github.com/ClintJang/awesome-freelance-korea-information/blob/master/freelance-contract-template.md)
+
+- [프리랜서 계약서 셈플 링크 1](https://jabbap.tistory.com/60)
+
 ## 개발자 수요
+> 잘하는 개발자는 정규직이나 프리랜서 개발자 나 모두 부족한(수요가 높은..) 것 같습니다.
+
 ### iOS
 > 단통법 이후 iPhone 수요는 갑작스래 늘고 개발자는 부족해 진 상황이 이어지고 있는 것 같습니다.
 > 이후 능숙하지 못한 iOS 개발자를 투입해서 실패한 케이스가 늘어나면서 잘하는 iOS 개발자는 좀더 귀하게 된것 같습니다.
@@ -90,14 +97,12 @@
 - [원청회사](https://m.blog.naver.com/PostView.nhn?blogId=choiuisun&logNo=67225928&proxyReferer=https%3A%2F%2Fwww.google.com%2F) :  [原請會社] [명사]입찰에 응하여 도급을 따 낸 회사를 하청 회사에 상대하여 이르는 말.
 - [아웃소싱](https://ko.wikipedia.org/wiki/%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1) :  기업의 내부 프로젝트나 제품의 생산, 유통, 용역 등을 외부의 제3자에게 위탁, 처리하는 것
 
-### 계약서 셈플 링크
-- [프리랜서 계약서 셈플 링크 1](https://jabbap.tistory.com/60)
-
 ## 그 외 읽어볼만한 링크
 - [SW 개발자 처우, 이대로 좋은가](http://www.bloter.net/archives/169430)
 - [코사 등록 방법/ 소프트웨어 기술자 신고](http://blog.naver.com/PostView.nhn?blogId=chsonyu&logNo=221458485720&parentCategoryNo=&categoryNo=27&viewDate=&isShowPopularPosts=true&from=search)
 - [40대 프리랜서가 되기 위해 필요한 것](https://it.donga.com/28845/)
 - ["진화 중인 프리랜서의 세계" 크라우드소싱으로 협업하고 혼자 멀티플레이어로 뛰기도](https://jmagazine.joins.com/economist/view/322925)
+
 
 ## Q & A
 > 지극히 개인적인 생각/경험으로 답변한 내용입니다. 
