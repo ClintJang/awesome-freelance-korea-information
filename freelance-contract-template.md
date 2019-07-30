@@ -4,6 +4,7 @@
 
 ## 계약서 작성시 주의 사항
 - [계약서 작성 이야기](https://medium.com/@jang.wangsu/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EA%B3%84%EC%95%BD%EC%84%9C-%EC%9E%91%EC%84%B1-%EC%9D%B4%EC%95%BC%EA%B8%B0-2848c8db7e1f)
+- [계약서 날인/간인 방법](http://blog.naver.com/PostView.nhn?blogId=wookwook5265&logNo=221380690436&parentCategoryNo=&categoryNo=61&viewDate=&isShowPopularPosts=true&from=search)
 
 ## Case 1
 
@@ -111,3 +112,10 @@
 본 계약의 목적은 ..
 
 ... 작성중
+
+## Case 4
+.. 다양한 계약서
+
+## 결론 (개인 생각)
+- 저도 법은 잘 모르지만, 계약 당사자가 계약내용에 동의했다는 사실을 증명할 수 있으면 그 형태가 무엇이든 법적인 효력이 있는 것으로 알고 있습니다.
+- 계약서는 안좋은 일이 발생했을 때, 분쟁을 해결해 주는 좋은 수단이 되니 꼼꼼하게 확인해 보시고 수정 요청을 하는 좋은 습관을 가지면 좋을 것 같습니다.
