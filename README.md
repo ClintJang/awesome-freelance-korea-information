@@ -55,6 +55,11 @@
 - [국민청원, SW기술자등급 폐지가 제대로 시행되도록 해주세요.](https://www1.president.go.kr/petitions/205936?page=2)
 - [SW기술자의 등급 및 인정 범위 표](https://blog.lael.be/post/63)
 
+## 계약급여
+- 계약급여는 작성하기 부담스러우니 여기서 적기 애매하네요. 
+- 편하게 저에게 물어봐 주세요. :)
+- [okky 잡 검색링크](https://okky.kr/articles/jobs) 에서 글들을 보시면, 어떤 글들에 고급, 중급, 초급 단가들이 적혀있습니다. 그 정도 어간이라고 생각하시면 됩니다.
+
 ## 세금
 > 받기로 한 금액의 3.3%를 세금으로 냅니다. 
 
@@ -100,8 +105,14 @@
 - [아이폰 국내 판매량 증가와 iOS 개발자 품귀 현상](https://brunch.co.kr/@jino/12)
 - [단통법 8개월…아이폰만 훨훨 날았다](https://www.mk.co.kr/news/business/view/2015/06/584426/)
 
+### 그 외
+당연한 이야기이지만 좋은 개발자를 구하기 참 어려워 하시는 것 같습니다.
+정도를 얻게 되면 계속 업데이트 해보겠습니다.
+
 ## 용어
 - [프리랜서(위키백과)](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C), [프리랜서(namu)](https://namu.wiki/w/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C), [Freelancer](https://en.wikipedia.org/wiki/Freelancer)
+- [인적용역](https://terms.naver.com/entry.nhn?docId=47299&cid=42095&categoryId=42095) 사업자 : 부가가치세법 상 프리랜서 중에서도 작가, 배우, 강사, 프로그래머 등 물적 시설 없이 근로자를 고용하지 아니하고 독립된 자격으로 용역을 공급하고 대가를 받는 사업자를 인적용역 사업자라 합니다. 
+	- 부가가치세법 시행령 42조에 명시되어 있다고 합니다.
 - [SI](https://namu.wiki/w/SI) : System Integration(시스템 구축)의 약자, 국내에서는 전산시스템을 필요로 하는 곳으로부터 하청을 받아, 시스템의 기획, 개발, 유지보수, 운영 등을 대신 해주는 업종입니다.
 	- 개인적인 생각입니다. 이런 업종을, 즉 국내에서 전산시스템을 구축/유지보수하는 전체적인 용어로 사용하기도 하고, 혹은 유지보수 말고 프로젝트를 새로 만드는 단계인 구축진행을 할때 SM과 구분지어서 표현하기도 합니다.
 - [SM](https://namu.wiki/w/SM(%EA%B0%9C%EB%B0%9C)) : System Management(시스템 운영, 또는 유지보수)의 약자입니다.
@@ -131,6 +142,7 @@
 - [프리랜서 사이트 업워크 소개](https://cliff6.tistory.com/96) (2016.02.06)
 - [PDF, 국내 SW프리랜서 개발자 현황과 정책 시사점-소프트웨어정책연구소](https://spri.kr/download/22086) (2019.01.16)
 - [4차 산업혁명 시대, 개인의 역활과 선택](http://www.startuptoday.kr/news/articleView.html?idxno=11140) (2018.11.19)
+- [프리랜서 개발자는 어떨까? 시간, 수익, 잠재력은?](http://www.ciokorea.com/news/39185) (2018.08.08)
 
 ## Q & A
 > 지극히 개인적인 생각/경험으로 답변한 내용입니다. 
