@@ -49,6 +49,8 @@
 		- 폐지 이후에는 SW기술자의 능력을 시장에서 검증하도록 유도
 		- SW산업진흥법 시행령의 기존 기술등급 및 인정 범위가 삭제
 	- 현재 SI/SM 개발 분야 프리랜서 인력투입에서는 `초급`/ `중급`/ `고급`/ `특급` 정도로 나눠서 인력이 투입되어 일하는 것으로 생각됩니다. 
+	- 공공기관, 대기업은 여전히 이전과 같은 기준을 가지고 있습니다. 과거의 기준으로 인력운영을 했었고, 기준이 사라졌지만 과거의 기준이 있었으니 이를 바탕으로 내부에 기준을 두고 있는 것 같습니다. 
+	- 공공기관은 쉽지 않겠지만, 기업들은 좋은 개발자와 함께 일하기 위해 시간이 갈수록 점점 변해가지 않을까 싶습니다.
 	
 ### 기타 링크
 - [폐지된 SW기술자 등급제, 여전히 공공사업에 활용](http://www.itdaily.kr/news/articleView.html?idxno=84296)
@@ -111,6 +113,7 @@
 
 ## 용어
 - [프리랜서(위키백과)](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C), [프리랜서(namu)](https://namu.wiki/w/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C), [Freelancer](https://en.wikipedia.org/wiki/Freelancer)
+- [근로자파견, 도급, 용역의 구분](http://www.nodong.or.kr/irregular/406808) : 근로자파견과 도급의 차이의 설명이 너무 잘 되어있는 것 같습니다.
 - [인적용역](https://terms.naver.com/entry.nhn?docId=47299&cid=42095&categoryId=42095) 사업자 : 부가가치세법 상 프리랜서 중에서도 작가, 배우, 강사, 프로그래머 등 물적 시설 없이 근로자를 고용하지 아니하고 독립된 자격으로 용역을 공급하고 대가를 받는 사업자를 인적용역 사업자라 합니다. 
 	- 부가가치세법 시행령 42조에 명시되어 있다고 합니다.
 - [SI](https://namu.wiki/w/SI) : System Integration(시스템 구축)의 약자, 국내에서는 전산시스템을 필요로 하는 곳으로부터 하청을 받아, 시스템의 기획, 개발, 유지보수, 운영 등을 대신 해주는 업종입니다.
@@ -120,11 +123,19 @@
 	- [Turnkey](https://en.wikipedia.org/wiki/Turnkey)
 - [원청회사](https://m.blog.naver.com/PostView.nhn?blogId=choiuisun&logNo=67225928&proxyReferer=https%3A%2F%2Fwww.google.com%2F) :  [原請會社] [명사]입찰에 응하여 도급을 따 낸 회사를 하청 회사에 상대하여 이르는 말.
 - [아웃소싱](https://ko.wikipedia.org/wiki/%EC%95%84%EC%9B%83%EC%86%8C%EC%8B%B1) :  기업의 내부 프로젝트나 제품의 생산, 유통, 용역 등을 외부의 제3자에게 위탁, 처리하는 것
+- 비전형 근로자 : 비정규직 인력 중 '비전형근로자'는 파견근로자, 용역근로자, 특수형태근로종사자, 가정 내(재택, 가내) 근로자, 일일(단기)근로자가 해당
+
+## 커뮤니티
+> 알게 되면 더욱 추가해 보겠습니다.
+
+- [OKKY 좋은회사/나쁜회사](https://okky.kr/articles/evalcom) : 프리랜서로 살아가기 참 힘들죠.. 정보 공유는 참 중요한 것 같습니다.
+- [IT프리개발자방-카카오 오픈채팅방](https://open.kakao.com/o/geHO1CL) : 대화내용은 많치 않치만 필요할 때 문의 해볼수 있습니다.
 
 ## 다양한 방법으로 개발 인력들을 모집하는 사이트
 > 부업을 한다면??
 
 - 국내
+	- [OKKY Job](https://okky.kr/articles/jobs) : 프리랜서 구인 커뮤니티 중 가장 많은 정보를 얻을 수 있지 않은 가 싶습니다. 운영해 주셔서 감사한 마음을 가지고 있습니다. 
 	- [위시켓](https://www.wishket.com) : "IT 아웃소싱을 위시켓에서 빠르고 안전하게!" 라고 합니다.
 	- 애플리케이션 개발, 웹 개발, 일반 소프트웨어 개발,
 웹 디자인, 커머스, 쇼핑몰 등
@@ -134,15 +145,50 @@
 	- [freelancer.com](https://www.freelancer.com)
 
 ## 그 외 읽어볼만한 링크
+> 좋은 링크는 계속 업데이트 하겠습니다.
+
+### [소프트웨어정책연구소](https://spri.kr/)
+- [국내 SW프리랜서 개발자 현황과 정책 시사점-소프트웨어정책연구소 PDF 다운로드](https://spri.kr/download/22086) (2019.01.16)
+
+### [SW산업정보종합시스템](https://www.swit.or.kr/)
+- [공공기관 SW사업 법제도 준수권고 권고서양식 안내(2014.6월)](https://www.swit.or.kr/IS/web/isCbmRefView.jsp?ref_sq=540&schCode=13&source=post_page---------------------------) : 기술등급 및 인정 범위가 삭제 된 내용이 언급되어있습니다.
+
+### [KOSA]()
+- [KOSA 제출서류 안내](https://career.sw.or.kr/pif/pif02.jhtml) : SW기술자신고 항목별 제출서류 안내입니다.
+	
+	```
+	근무경력
+	① 근무경력확인서 원본 (별지 제 21호)
+	② 경력 및 기간 증명서류 (택 1)
+	(①, ② 모두 제출)
+	
+	기술경력
+	① 기술경력확인서 원본 (별지 제 22호)
+	② 경력 및 기간 증명서류 (택 1)
+	(①, ② 모두 제출)
+	* 프리랜서의 경우
+	① 기술경력확인서 원본 또는 용역계약서 원본
+	② 경력 및 기간 증명서류 (택 1)
+	(①, ② 모두 제출)
+	```
+
+### [고용노동부](www.moel.go.kr)
+- [비정규 근로의 개념과 유형.hwp 다운로드](http://www.moel.go.kr/local/busan/common/downloadFile.do;jsessionid=twkQi440vQCbml9jG4v1UqITaNcYENdC8tlUFrrbVUVeEyicMPKFCyKucAi4Vge6.moel_was_outside_servlet_wwwlocal?file_seq=21171342617&bbs_seq=44046&bbs_id=LOCAL1)
+
+### 일반 링크
 - [SW 개발자 처우, 이대로 좋은가](http://www.bloter.net/archives/169430) (2013.11.12)
 - [코사 등록 방법/ 소프트웨어 기술자 신고](http://blog.naver.com/PostView.nhn?blogId=chsonyu&logNo=221458485720&parentCategoryNo=&categoryNo=27&viewDate=&isShowPopularPosts=true&from=search) (2019.02.04)
 - [40대 프리랜서가 되기 위해 필요한 것](https://it.donga.com/28845/) (2019.03.19)
 - ["진화 중인 프리랜서의 세계" 크라우드소싱으로 협업하고 혼자 멀티플레이어로 뛰기도](https://jmagazine.joins.com/economist/view/322925) (2018.09.24)
 - [직장을 그만두지 않고, '인디' 프리랜서 개발자 커리어를 시작하는 방법](http://www.itworld.co.kr/news/101171) (2016.09.19)
 - [프리랜서 사이트 업워크 소개](https://cliff6.tistory.com/96) (2016.02.06)
-- [PDF, 국내 SW프리랜서 개발자 현황과 정책 시사점-소프트웨어정책연구소](https://spri.kr/download/22086) (2019.01.16)
 - [4차 산업혁명 시대, 개인의 역활과 선택](http://www.startuptoday.kr/news/articleView.html?idxno=11140) (2018.11.19)
 - [프리랜서 개발자는 어떨까? 시간, 수익, 잠재력은?](http://www.ciokorea.com/news/39185) (2018.08.08)
+
+### 유튜브
+- [2019. 02. 01. IT 개발, 프리랜서 생활의 폐해](https://www.youtube.com/watch?v=NZyenVAj80c) (06:54)
+- [2019. 06. 18. 개발자 SI프리랜서 이야기? 조금만 바쁘면 통장에 돈이 쌓여서 고민이다.](https://www.youtube.com/watch?v=W0emdrkPqtY&t=15s) (15:26)
+- [2018. 1. 5. 개발자의 정년이 40살이라고?](https://www.youtube.com/watch?v=ButdzEPoAaM) (7:47)
 
 ## Q & A
 > 지극히 개인적인 생각/경험으로 답변한 내용입니다. 
