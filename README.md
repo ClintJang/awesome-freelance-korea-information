@@ -19,6 +19,7 @@
 	- 프리랜서 커뮤니티, 구인/구직, 칼럼
 - [프리랜서 가이드라인 (e-Book, 무료) 소개](https://okky.kr/article/533991)
 	- [에스프레소북](http://espressobook.com/books/1449), [YES24](http://www.yes24.com/Product/goods/67488216), [리디북스](https://ridibooks.com/books/2389000025), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=176445813), [교보문고](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480D181212200&orderClick=LAN&Kc=), [네이버e북](https://series.naver.com/ebook/detail.nhn?productNo=3843736)
+	- 무료로 제공하는 책이 있어서 놀라웠습니다. (아직은 못 읽었습니다. 이 코멘트를 지우는 날이 읽은 날입니다. ;;;)
 
 ## 프리랜서란?
 - [프리랜서](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C) : 특정 기업이나 단체, 조직에 전담하지 않고, 자신의 기술과 능력을 이용해 사회적으로 독립적인 개인 사업자를 말합니다.
