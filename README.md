@@ -183,7 +183,7 @@
 ### [SW산업정보종합시스템](https://www.swit.or.kr/)
 - [공공기관 SW사업 법제도 준수권고 권고서양식 안내(2014.6월)](https://www.swit.or.kr/IS/web/isCbmRefView.jsp?ref_sq=540&schCode=13&source=post_page---------------------------) : 기술등급 및 인정 범위가 삭제 된 내용이 언급되어있습니다.
 
-### [KOSA]()
+### [KOSA](https://career.sw.or.kr)
 - [KOSA 제출서류 안내](https://career.sw.or.kr/pif/pif02.jhtml) : SW기술자신고 항목별 제출서류 안내입니다.
 	
 	```
@@ -214,6 +214,7 @@
 - [프리랜서 사이트 업워크 소개](https://cliff6.tistory.com/96) (2016.02.06)
 - [4차 산업혁명 시대, 개인의 역활과 선택](http://www.startuptoday.kr/news/articleView.html?idxno=11140) (2018.11.19)
 - [프리랜서 개발자는 어떨까? 시간, 수익, 잠재력은?](http://www.ciokorea.com/news/39185) (2018.08.08)
+- [우리나라 SI의 현실(Feat.PD수첩)](https://okky.kr/article/612268) (2019.08.06)
 
 ### 유튜브
 - [2019. 02. 01. IT 개발, 프리랜서 생활의 폐해](https://www.youtube.com/watch?v=NZyenVAj80c) (06:54)
@@ -257,7 +258,11 @@
 	- 그렇치 않고, 지금 잘 하고 있는 데.. 어? 돈을 많이 준다는 데?? 한번 해볼까? 하는 분 들이라면 추천 드리지 않습니다.
 	- 현시점에서 보면 단기 계약으로 일하는 프리랜서의 경력은 정규직 분들에게 부정적인 이미지가 강합니다. 다시 정규직으로 돌아가기가 점점 어려워질 거에요.
 	- 더불어 실제로 업무할 때 수동적으로 일하게 되는 경향도 생겨날 수 있습니다. (개인적인 생각입니다. 😭)
-
+- Q. 개인 프리랜서라면 어떻게 프로젝트 수주하나요.?
+	- 기본 적으로 경력은 최소 1~2년 이상은 되시면 좋겠네요.
+	- 저는 보통 잡코리아에서 이력서 오픈 하는 방식을 이용합니다. 지금 구하시는 Job의 수요가 있다면 전화가 많이 걸려올 것 입니다. 
+	- [OKKY Job](https://okky.kr/articles/jobs)에 프리랜서 잡 정보가 잘 올라와 있습니다. 여기를 참고해서 업체 담당자에게 연락해보시는 것도 좋은 방법입니다.
+	- 그 외에는 위에 [다양한 방법으로 개발 인력들을 모집하는 사이트](https://github.com/ClintJang/awesome-freelance-korea-information/blob/master/README.md#%EB%8B%A4%EC%96%91%ED%95%9C-%EB%B0%A9%EB%B2%95%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%B0%9C-%EC%9D%B8%EB%A0%A5%EB%93%A4%EC%9D%84-%EB%AA%A8%EC%A7%91%ED%95%98%EB%8A%94-%EC%82%AC%EC%9D%B4%ED%8A%B8)를 한번 확인해보세요.
 
 <BR /><BR />
 
